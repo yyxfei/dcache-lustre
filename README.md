@@ -1,6 +1,6 @@
 dcache-lustre
 =============
-These script can regist posix files to dCache pnfs.
+These scripts can regist posix files to dCache pnfs.
 
 regist.sh:
 Main file of regist
